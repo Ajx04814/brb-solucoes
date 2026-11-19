@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://brbsolucoesresidenciais.netlify.app/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://brbsolucoesresidenciais.netlify.app/hero-brb.jpg</image:loc></image:image>
     <image:image><image:loc>https://brbsolucoesresidenciais.netlify.app/sobre-brb.jpg</image:loc></image:image>
   </url>
-  <url><loc>https://brbsolucoesresidenciais.netlify.app/eletricista-zona-oeste-rj.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://brbsolucoesresidenciais.netlify.app/pintura-residencial-zona-oeste-rj.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://brbsolucoesresidenciais.netlify.app/marido-de-aluguel-zona-oeste-rj.html</loc><lastmod>2026-11-17</lastmod></url>
+  <url><loc>https://brbsolucoesresidenciais.netlify.app/eletricista-zona-oeste-rj.html</loc><lastmod>2026-11-19</lastmod></url>
+  <url><loc>https://brbsolucoesresidenciais.netlify.app/pintura-residencial-zona-oeste-rj.html</loc><lastmod>2026-11-19</lastmod></url>
+  <url><loc>https://brbsolucoesresidenciais.netlify.app/marido-de-aluguel-zona-oeste-rj.html</loc><lastmod>2026-11-19</lastmod></url>
 </urlset>
